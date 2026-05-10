@@ -133,5 +133,3 @@ No external dependencies — every program uses only standard C headers (`stdio.
 - **Type system** — `typedef`, `enum`, implicit/explicit casting, unary operators
 
 ---
-
-> *323 programs. One concept at a time.*
